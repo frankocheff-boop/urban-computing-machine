@@ -1,22 +1,21 @@
 # urban-computing-machine
 
-Un proyecto dedicado a traer de vuelta el sol a nuestras ciudades.
-_A project dedicated to bringing back the sun to our cities._
+## Happy Message Extension
 
-## Acerca de / About
+This is a Dynamics 365 Business Central AL extension that displays a happy message.
 
-Este proyecto explora la computación urbana con un enfoque especial en el seguimiento y optimización de la luz solar en entornos urbanos.
+### Features
 
-_This project explores urban computing with a special focus on tracking and optimizing sunlight in urban environments._
+- Displays the message "Aqui tienes que ser feliz" (Here you have to be happy)
+- Simple card page with a read-only text field
+- Bilingual support (Spanish and English)
 
-## Documentación / Documentation
+### Installation
 
-- [El Sol en la Ciudad / The Sun in the City](sol.md) - Concepto principal y objetivos del proyecto
+1. Open this project in Visual Studio Code with the AL Language extension installed
+2. Configure your launch.json to connect to a Business Central instance
+3. Press F5 to deploy and run the extension
 
-## Comenzando / Getting Started
+### Usage
 
-_Próximamente / Coming soon_
-
----
-
-💛 _Extraño a mi sol, desearía que volviera_ 💛
+Once installed, navigate to the "Happy Message" page in Business Central to see the happy message.
